@@ -1,0 +1,8 @@
+[INFO] [80d8c264-3c4c-447e-ab49-037d462fb522] [2017-04-02 23:22:12 GMT+01:00] Running setup: users
+[INFO] [b808fff6-3e69-43da-beab-238bfef05f0e] [2017-04-02 23:28:25 GMT+01:00] Running setup: users
+[INFO] [3c08c4a6-66fb-4df0-b14c-51fb111e3005] [2017-04-02 23:39:48 GMT+01:00] Running setup: users
+[INFO] [9f79b89a-d07a-4880-95c7-2044f2cf0f76] [2017-04-02 23:42:16 GMT+01:00] Running setup: users
+[INFO] [e5240a17-1541-4a10-a569-f29f902e6762] [2017-04-02 23:43:14 GMT+01:00] Running setup: users
+[INFO] [606c1ba7-aefc-4b3e-8d24-6ec8148411b0] [2017-04-02 23:45:39 GMT+01:00] Running setup: users
+[INFO] [cb8da85f-ecc6-4fe8-9a32-97bbced68fad] [2017-04-02 23:55:19 GMT+01:00] Running setup: users
+[INFO] [9eed16cb-1c12-4409-92f1-41cca1cce938] [2017-04-02 23:55:21 GMT+01:00] Running setup: tokens

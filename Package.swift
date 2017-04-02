@@ -6,10 +6,10 @@ let package = Package(
         .Package(
             url: "https://github.com/PerfectlySoft/Perfect-HTTPServer.git",
             majorVersion: 2, minor: 0
-        )
+        ),
         .Package(
-            url: "https://github.com/PerfectlySoft/Perfect-PostgreSQL.git",
-            majorVersion: 2, minor: 0
+            url: "https://github.com/PerfectlySoft/Perfect-Turnstile-PostgreSQL.git",
+            majorVersion: 0, minor: 0
         )
     ]
 )
